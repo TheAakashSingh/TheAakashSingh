@@ -25,5 +25,6 @@ I'm enthusiastic about collaborating on exciting projects and contributing to op
 You can reach me through the following channels:
 - Email: aakaashskilldevelopment@gmail.com
 - LinkedIn:(https://www.linkedin.com/in/theaakashsingh)
+- Website:(https://www.aakashsingh.us)
 
 Feel free to explore my repositories and don't forget to leave a ⭐️ if you find something interesting! Happy coding! 😄
